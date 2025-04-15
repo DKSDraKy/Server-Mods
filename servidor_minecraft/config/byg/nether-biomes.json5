@@ -93,11 +93,35 @@ If your settings in this file seem to have to no effect on the generation of the
 				"weight": 0
 			},
 			{
-				"data": "gardens_of_the_dead:soulblight_forest",
+				"data": "incendium:volcanic_deltas",
 				"weight": 2
 			},
 			{
-				"data": "gardens_of_the_dead:whistling_woods",
+				"data": "incendium:toxic_heap",
+				"weight": 2
+			},
+			{
+				"data": "incendium:weeping_valley",
+				"weight": 2
+			},
+			{
+				"data": "incendium:withered_forest",
+				"weight": 2
+			},
+			{
+				"data": "incendium:quartz_flats",
+				"weight": 2
+			},
+			{
+				"data": "incendium:inverted_forest",
+				"weight": 2
+			},
+			{
+				"data": "incendium:infernal_dunes",
+				"weight": 2
+			},
+			{
+				"data": "incendium:ash_barrens",
 				"weight": 2
 			}
 		]
@@ -189,11 +213,35 @@ If your settings in this file seem to have to no effect on the generation of the
 				"weight": 0
 			},
 			{
-				"data": "gardens_of_the_dead:soulblight_forest",
+				"data": "incendium:volcanic_deltas",
 				"weight": 2
 			},
 			{
-				"data": "gardens_of_the_dead:whistling_woods",
+				"data": "incendium:toxic_heap",
+				"weight": 2
+			},
+			{
+				"data": "incendium:weeping_valley",
+				"weight": 2
+			},
+			{
+				"data": "incendium:withered_forest",
+				"weight": 2
+			},
+			{
+				"data": "incendium:quartz_flats",
+				"weight": 2
+			},
+			{
+				"data": "incendium:inverted_forest",
+				"weight": 2
+			},
+			{
+				"data": "incendium:infernal_dunes",
+				"weight": 2
+			},
+			{
+				"data": "incendium:ash_barrens",
 				"weight": 2
 			}
 		]

@@ -1,6 +1,6 @@
 {
   "disableRecipebook": {
-    "desc:": "Whether to disable the recipe book entirely, removes the button on client side and removes synced data on server side: default:false",
+    "desc:": "Disables the recipe book entirely, removes the button on client side and removes synced data on server side: default:false",
     "disableRecipebook": false
   },
   "enableBetterRecipebookSorting": {
@@ -24,7 +24,7 @@
     "cacheRecipes": true
   },
   "logCachingErrors": {
-    "desc:": "Whether to log errors during caching: default:false",
+    "desc:": "Enables error logging for recipe caching: default:false",
     "logCachingErrors": false
   }
 }
