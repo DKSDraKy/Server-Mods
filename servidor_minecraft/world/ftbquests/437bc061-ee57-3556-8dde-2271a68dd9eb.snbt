@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "437bc061ee5735568dde2271a68dd9eb"
+	name: "abel214"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,15 @@
+{
+	id: "8aae7b03-c6a8-351b-96b5-dca96c04a842"
+	type: "player"
+	player_name: "Gressinmoon"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Gressinmoon"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5987"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,15 @@
+{
+	id: "437bc061-ee57-3556-8dde-2271a68dd9eb"
+	type: "player"
+	player_name: "abel214"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "abel214"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FE59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

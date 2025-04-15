@@ -1,0 +1,17 @@
+{
+	id: "1c3dde28-5528-4c6f-a93d-3bb0fbdccdac"
+	type: "player"
+	player_name: "wDraKy"
+	ranks: {
+		1c3dde28-5528-4c6f-a93d-3bb0fbdccdac: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "wDraKy"
+		"ftbteams:description": ""
+		"ftbteams:color": "#E4FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
